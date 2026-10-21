@@ -64,6 +64,18 @@
       "created_at": "2026-10-21T20:00:03.423Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "55252edc-712f-4f35-b698-968097505931",
+      "role": "agent",
+      "content": "You can open and view your portfolio here:\n\n👉 https://antigravity.luch.dev/site/ce4b1a83-05d6-4f05-993a-3e2500dacfcf/85a87d19f3fe82d3ecbae83a/\n\nLet me know what updates or changes you'd like to make to it!",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "ac662bf6-852c-4321-bf8a-bdca162aa05d",
+      "created_at": "2026-10-21T20:00:15.942Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
